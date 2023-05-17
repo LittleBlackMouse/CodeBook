@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="background">
+    <file>钥匙背景图片.jpg</file>
+  </qresource>
+</RCC>
